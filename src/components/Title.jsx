@@ -5,7 +5,7 @@ function Title() {
   return (
     <div id="currency-title">
       <h1>Przelicznik walut</h1>
-      <img src={Logo} />
+      <img src={Logo} alt="" />
     </div>
   );
 }
